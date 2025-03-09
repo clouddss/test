@@ -13,7 +13,7 @@
             // @define module
             // @define exports
             // ==/UserScript==
-
+debugger;
 
     // Not for distribution
 let eval_G56db;
