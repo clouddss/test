@@ -7,6 +7,7 @@
             // @author       You
             // @match        https://gota.io/web/
             // @icon         https://www.google.com/s2/favicons?sz=64&domain=gota.io
+            // @run-at       document-start
             // @grant GM_info
             // @grant unsafeWindow
             // @grant GM
