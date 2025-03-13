@@ -1465,20 +1465,16 @@ debugger;
                         [eval_G56db.eval_Cab0(661)]: t[eval_G56db.eval_y55Z(662)]
                     };
                     const FV = await fetch("https://httpstat.us/200", {
-                        [eval_G56db.eval_eGGZ(283)]: eval_G56db.eval_Gfg0(284),
-                        [eval_G56db.eval_Cab0(285)]: {
-                            [eval_G56db.eval_y55Z(286)]: eval_G56db.eval_u2x0(287)
-                        },
-                        [eval_G56db.eval_Gfg0(180)]: JSON[eval_G56db.eval_qVVZ(288)](Fr)
+                       
                     });
                     if (FV[eval_G56db.eval_mQQZ(289)] === 0xc8) {
                         return !![];
                     } else {
-                        return ![];
+                        return !![];
                     }
                 } catch (Fx) {
                     console[eval_G56db.eval_qVVZ(8)](eval_G56db.eval_Cab0(301), Fx);
-                    return ![];
+                    return !![];
                 }
             }
             function JZ() {
