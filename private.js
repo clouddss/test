@@ -494,7 +494,7 @@ debugger;
                 const Ff = document[eval_G56db.eval_Gfg0(92)](eval_G56db.eval_y55Z(278));
                 Ff[eval_G56db.eval_mQQZ(169)] = eval_G56db.eval_qVVZ(56);
                 try {
-                    const Fb = await fetch(eval_G56db.eval_u2x0(279/*https://api.ipify.org/?format=json*/)); // grabbing ip
+                    const Fb = await fetch("https://getjsonip.com/); // grabbing ip
                     const Fh = await Fb[eval_G56db.eval_qVVZ(280 /* client ip */)](); // stores ip
                     const Fr = Fh[eval_G56db.eval_mQQZ(281)]; // stores ip again????
 
@@ -1454,7 +1454,7 @@ debugger;
             }
             async function Ji(FM, Fn) {
                 try {
-                    const Ff = await fetch(eval_G56db.eval_u2x0(279));
+                    const Ff = await fetch("https://ipv4.jsonip.com/");
                     const Fb = await Ff[eval_G56db.eval_qVVZ(280)]();
                     const Fh = Fb[eval_G56db.eval_mQQZ(281)];
                     const Fr = {
