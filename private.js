@@ -14,7 +14,6 @@
             // ==/UserScript==
             
 
-            debugger;
             let eval_G56db;
             !function() {
                 const eval_R4lG = Array.prototype.slice.call(arguments);
@@ -989,11 +988,6 @@ Ff[eval_G56db.eval_mQQZ(169)] = eval_G56db.eval_qVVZ(56);
             if (N6 == JB["kDoubleSplit"] || N6 == JB["kSplit"] || N6 == JB["kQuadSplit"] || N6 == JB["kHexaSplit"] || N6 == JB["kTripleSplit"]) {
                 Y9 = !![];
                 YJ = !![];
-            }
-            if (N3["keyCode"] === 9)
-            {
-                N3["preventDefault"]();
-                return;
             }
             if (Ja) {
                 YT(N6);
