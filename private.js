@@ -990,7 +990,7 @@ Ff[eval_G56db.eval_mQQZ(169)] = eval_G56db.eval_qVVZ(56);
                 Y9 = !![];
                 YJ = !![];
             }
-            if (N3["keyCode] === 9)
+            if (N3["keyCode"] === 9)
             {
                 N3["preventDefault"]();
                 return;
