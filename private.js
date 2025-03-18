@@ -13,8 +13,6 @@
             // @define exports
             // ==/UserScript==
             
-
-            debugger;
          
             let eval_G56db;
             !function() {
